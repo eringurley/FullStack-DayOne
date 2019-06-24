@@ -4,7 +4,5 @@ const createDog = (name, age, weight) => ({
   weight
 });
 
-console.log(createDog('spot', 5, '20lbs'));
-
 
 module.exports = createDog;
