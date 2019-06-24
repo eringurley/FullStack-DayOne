@@ -1,5 +1,5 @@
-//import createDog from './index.js'
-const createDog = require('./index');
+//import createDog from './create-dog.js'
+const createDog = require('./create-dog');
 
 //test suite
 describe('dog create function', () => {
@@ -13,3 +13,5 @@ describe('dog create function', () => {
     });
   });
 });
+
+
